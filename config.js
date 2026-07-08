@@ -11,8 +11,8 @@ window.SJS_CONFIG = {
   phone: "962796893403",
 
   // بيانات دخول لوحة الإدارة (غيّرهم!)
-  adminEmail: "admin@sjs.com",
-  adminPassword: "sjs20026",
+  adminEmail: "waled.alsaber123@gmail.com",
+  adminPassword: "Waled@123",
 
   // تسعيرة التوصيل:
   //  base   = رسوم فتح الطلب (تغطي المسافة المجانية)
